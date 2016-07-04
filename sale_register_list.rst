@@ -31,6 +31,7 @@
            "community_name", "否", "string","False","小区名称"
            "apartment_type_name", "否", "string","False","房型名称"
            "state", "否", "string","draft","状态,固定列表
+           
            1. draft：作废
            
            2. revising：修订中
